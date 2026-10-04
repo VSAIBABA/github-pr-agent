@@ -7,4 +7,5 @@
 
     <include file="changelog/changesets/001-update-report-status-pending-to-closed.sql"/>
 
+    <include file="INC9087390-update-asset-type.dml.sql" relativeToChangelogFile="true"/>
 </databaseChangeLog>
